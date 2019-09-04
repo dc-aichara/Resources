@@ -9,3 +9,4 @@
 8. [Machine Learning in Python - AWS](https://pythonizame.s3.amazonaws.com/media/Book/machine-learning-python-essential-techniques-predictive-analysis/file/008c0aac-9784-11e5-964d-04015fb6ba01.pdf)
 9. [Introduction to Machine Learning with Python](https://perso.limsi.fr/annlor/enseignement/ensiie/Intro_ML_Python.pdf)
 10. [Introduction to Machine Learning](http://www.datascienceassn.org/sites/default/files/Introduction%20to%20Machine%20Learning.pdf)
+11. [Data Engineering Cookbook](https://github.com/andkret/Cookbook)
