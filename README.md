@@ -10,3 +10,4 @@
 9. [Introduction to Machine Learning with Python](https://perso.limsi.fr/annlor/enseignement/ensiie/Intro_ML_Python.pdf)
 10. [Introduction to Machine Learning](http://www.datascienceassn.org/sites/default/files/Introduction%20to%20Machine%20Learning.pdf)
 11. [Data Engineering Cookbook](https://github.com/andkret/Cookbook)
+12. [Statistics Resources](https://brohrer.github.io/stats_resources.html)
